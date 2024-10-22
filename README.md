@@ -11,8 +11,8 @@ Portifólio
 </head>
 <body>
     <header>
-        <h1>Olá, sou [Seu Nome]</h1>
-        <p>Bem-vindo ao meu portfólio de desenvolvedor!</p>
+        <h1>Olá, sou a Clara</h1>
+        <p>Bem-vindo ao meu portfólio de Analista de Dados!</p>
     </header>
     <section>
         <h2>Projetos</h2>
